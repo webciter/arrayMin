@@ -1,4 +1,6 @@
-/* Code Edited By David Clews */
+/* Code Edited By David Clews 
+   http://davidclews.com
+*/
 
 /*
  * min
