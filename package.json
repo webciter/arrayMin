@@ -1,0 +1,24 @@
+{
+  "name": "webciter/arrayMin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Array.js",
+  "dependencies": {
+  
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webciter/arrayMin.git"
+  },
+  "keywords": [
+    "array","javascript"
+  ],
+  "author": "David Clews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webciter/arrayMin/issues"
+  },
+  "homepage": "https://github.com/webciter/arrayMin#readme"
+}
